@@ -1,4 +1,0 @@
-# This is a deepmd model
-
-pair_style 	deepmd ../../frozen_model_1_compressed.pb ../../frozen_model_2_compressed.pb ../../frozen_model_3_compressed.pb ../../frozen_model_4_compressed.pb out_file md.out out_freq 100
-pair_coeff	* *
