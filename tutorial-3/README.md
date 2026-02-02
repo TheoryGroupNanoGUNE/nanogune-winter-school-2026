@@ -1,2 +1,2 @@
 # Tutorial 3
-Start with ```radial-distribution-function``` and then proceed to ```dimensional-reduction```.
+Start with ```A-training```, proceed to ```B-radial-distribution-function``` and then to ```C-dimensional-reduction```.
