@@ -1,4 +1,4 @@
-# *Nanoscience on the Computer*
+# *Quantum and AI-driven atomistic simulation*
 ## Tutorial for nanoGUNE's Winter School
 
 This tutorial was prepared for nanoGUNE's Winter School (February 4-6, 2026) and was organized by the Theory Group at nanoGUNE (Artacho, Milowska, Hernangómez, and Piaggi).
