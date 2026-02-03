@@ -1,5 +1,5 @@
 # Tutorial 3 - Part B
-## Compute radial distribution function
+## Machine-learning-driven molecular dynamics and computing radial distribution functions
 
 [Start Jupyter Notebook on Colab](https://colab.research.google.com/github/TheoryGroupNanoGUNE/nanogune-winter-school-2026/blob/main/tutorial-3/B-radial-distribution-function/RDF.ipynb)
 
